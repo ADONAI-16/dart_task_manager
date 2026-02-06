@@ -1,0 +1,7 @@
+# Dart & Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+*.log
+*.lock
