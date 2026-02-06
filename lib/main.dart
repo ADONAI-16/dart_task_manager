@@ -24,7 +24,7 @@ void main() async {
         String? desc = stdin.readLineSync() ?? "";
         try {
           await service.addTask(Task(title, desc));
-          print("Task added successfully ✅");
+          print("Task added successfully !");
         } catch (e) {
           print(e);
         }
@@ -40,11 +40,11 @@ void main() async {
         print("Select status: 0-pending, 1-inProgress, 2-completed");
         int s = int.tryParse(stdin.readLineSync() ?? "0") ?? 0;
         service.updateStatus(index, TaskStatus.values[s]);
-        print("Status updated ✅");
+        print("Status updated !");
         break;
 
       case '4':
-        print("Exiting... 👋");
+        print("Exiting... ");
         return;
 
       default:
