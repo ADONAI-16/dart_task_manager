@@ -33,7 +33,7 @@ pubspec.yaml
 README.md
 ```
 
-▶️ How to Run
+## ▶️ How to Run
 ```text
 1️⃣ Clone the repository
 git clone https://github.com/ADONAI-16/dart_task_manager.git
@@ -47,7 +47,7 @@ dart run lib/main.dart
 
 ```
 
-🧪 Example Usage
+## 🧪 Example Usage
 ```text
 --- Task Manager ---
 1. Add Task
@@ -76,7 +76,7 @@ Title: Homework | Description: Math exercises | Status: TaskStatus.pending
 
 . Clean, modular project structure
 
-🎷 Fun Fact
-```text
+## 🎷 Fun Fact
+
 ⚡ I code better when listening to jazz music
-```
+
