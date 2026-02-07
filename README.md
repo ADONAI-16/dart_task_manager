@@ -16,20 +16,21 @@ Designed with modular code, OOP principles, async programming, and custom except
 
 ---
 
-## Project Structure
+##  Project Structure
 
+```text
 lib/
-├── main.dart # App entry point
+├── main.dart             
 ├── models/
-│ └── task.dart # Task class & TaskStatus enum
+│   └── task.dart          
 ├── services/
-│ └── task_service.dart # Task logic (add, list, update)
+│   └── task_service.dart  
 └── utils/
-└── exceptions.dart # Custom exceptions
+    └── exceptions.dart    
+
 .gitignore
 pubspec.yaml
 README.md
-
 
 ---
 
