@@ -65,7 +65,7 @@ Title: Homework | Description: Math exercises | Status: TaskStatus.pending
 ```
 
 🧠 Concepts & Tech Used
-```text
+
 . Dart fundamentals (variables, functions, classes, enums)
 
 . Object-Oriented Programming (OOP)
@@ -75,7 +75,7 @@ Title: Homework | Description: Math exercises | Status: TaskStatus.pending
 . Custom exception handling
 
 . Clean, modular project structure
-```
+
 🎷 Fun Fact
 ```text
 ⚡ I code better when listening to jazz music
