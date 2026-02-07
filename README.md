@@ -34,17 +34,44 @@ README.md
 ```
 ```text
 ▶️ How to Run
-```
-```text
+
 1️⃣ Clone the repository
 git clone https://github.com/ADONAI-16/dart_task_manager.git
 cd dart_task_manager
-```
-```text
+
 2️⃣ Install dependencies
 dart pub get
-```
 
 3️⃣ Run the app
 dart run lib/main.dart
 
+```
+```text
+🧪 Example Usage
+--- Task Manager ---
+1. Add Task
+2. List Tasks
+3. Update Status
+4. Exit
+
+Choose an option: 1
+Enter title: Homework
+Enter description: Math exercises
+Task added successfully ✅
+
+Choose an option: 2
+Title: Homework | Description: Math exercises | Status: TaskStatus.pending
+```
+```text
+🧠 Concepts & Tech Used
+
+. Dart fundamentals (variables, functions, classes, enums)
+
+. Object-Oriented Programming (OOP)
+
+. Async programming with Future and await
+
+. Custom exception handling
+
+. Clean, modular project structure
+```
