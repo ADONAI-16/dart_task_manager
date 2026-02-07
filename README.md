@@ -32,9 +32,9 @@ lib/
 pubspec.yaml
 README.md
 ```
-```text
-▶️ How to Run
 
+▶️ How to Run
+```text
 1️⃣ Clone the repository
 git clone https://github.com/ADONAI-16/dart_task_manager.git
 cd dart_task_manager
@@ -46,8 +46,9 @@ dart pub get
 dart run lib/main.dart
 
 ```
-```text
+
 🧪 Example Usage
+```text
 --- Task Manager ---
 1. Add Task
 2. List Tasks
@@ -62,9 +63,9 @@ Task added successfully ✅
 Choose an option: 2
 Title: Homework | Description: Math exercises | Status: TaskStatus.pending
 ```
-```text
-🧠 Concepts & Tech Used
 
+🧠 Concepts & Tech Used
+```text
 . Dart fundamentals (variables, functions, classes, enums)
 
 . Object-Oriented Programming (OOP)
@@ -74,4 +75,8 @@ Title: Homework | Description: Math exercises | Status: TaskStatus.pending
 . Custom exception handling
 
 . Clean, modular project structure
+```
+🎷 Fun Fact
+```text
+⚡ I code better when listening to jazz music
 ```
