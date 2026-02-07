@@ -19,6 +19,7 @@ Designed with modular code, OOP principles, async programming, and custom except
 ##  Project Structure
 
 
+```text
 lib/
 ├── main.dart
 ├── models/
@@ -33,6 +34,7 @@ pubspec.yaml
 README.md
 
 
+```text
 
 🚀 How to Run
 1.Clone the repo:
@@ -40,6 +42,7 @@ README.md
 git clone https://github.com/ADONAI-16/dart_task_manager.git
 cd dart_task_manager
 
+```text
 
 Install dependencies:
 
@@ -47,6 +50,9 @@ dart pub get
 Run the app:
 
 dart run lib/main.dart
+
+```text
+
 🧪 Example Usage
 --- Task Manager ---
 1. Add Task
@@ -61,6 +67,9 @@ Task added successfully ✅
 
 Choose an option: 2
 Title: Homework | Description: Math exercises | Status: TaskStatus.pending
+
+```text
+
 🧠 Concepts & Tech Used
 * Dart fundamentals: variables, functions, classes, enums
 
@@ -70,7 +79,9 @@ Title: Homework | Description: Math exercises | Status: TaskStatus.pending
 
 * Exception handling using custom InvalidTaskException
 
-*Clean code & modular project structure
+* Clean code & modular project structure
+
+```text
 
 🎷 Fun Fact
 ⚡ I code better when listening to jazz music
