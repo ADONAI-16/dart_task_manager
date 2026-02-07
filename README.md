@@ -35,14 +35,14 @@ README.md
 
 ## ▶️ How to Run
 ```text
-1️⃣ Clone the repository
+## 1️⃣ Clone the repository
 git clone https://github.com/ADONAI-16/dart_task_manager.git
 cd dart_task_manager
 
-2️⃣ Install dependencies
+## 2️⃣ Install dependencies
 dart pub get
 
-3️⃣ Run the app
+## 3️⃣ Run the app
 dart run lib/main.dart
 
 ```
