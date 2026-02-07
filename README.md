@@ -64,7 +64,7 @@ Choose an option: 2
 Title: Homework | Description: Math exercises | Status: TaskStatus.pending
 ```
 
-🧠 Concepts & Tech Used
+## 🧠 Concepts & Tech Used
 
 . Dart fundamentals (variables, functions, classes, enums)
 
